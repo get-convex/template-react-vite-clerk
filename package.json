@@ -13,6 +13,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@clerk/clerk-react": "^5.22.11",
     "convex": "^1.16.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
